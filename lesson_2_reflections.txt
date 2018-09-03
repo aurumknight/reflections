@@ -29,3 +29,9 @@ branches in its history and files. It is represented in the
 diagram as two lines combining into one and it is like this 
 because merging takes two seperate branches and makes them
 one.
+
+Git's automatic merging can quickly combine two branches 
+however if changes have been made to both of the branches
+then it will raise a conflict. This is a good thing as it gives
+the programmer more control over what will be in the final
+version than if git just combined everything willy nilly.
