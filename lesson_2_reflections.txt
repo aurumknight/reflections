@@ -17,4 +17,8 @@ are grouped together.
 Branches would be helpful if you want to experiment with new
 changes but still want to have a working copy to show to the
 world. It can also help organize these big changes by keeping 
-them seperate from the smaller bug fixes in the master file/
+them seperate from the smaller bug fixes in the master file.
+
+The diagrams help me see the branch structure because they
+clearly show from which commit each branch stems from and
+how many commits forward they are.
