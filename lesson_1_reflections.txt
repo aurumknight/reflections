@@ -1,0 +1,40 @@
+By comparing the game_old.js file and game_new.js file,
+I was able to quickly realize that the issue that was
+causing the game to not run correctly was a typo in the
+changed code. Using the FC command allowed me to quickly
+see what went wrong.
+
+As we saw earlier, having old files to compare against 
+can help you new bugs in old features after you change
+the program. Also if you deleted an old feature and want
+to add it back in, you can look at old versions where
+the feature was present as a jumping off point. It is
+also jsut helpful to know where you and the application
+have been.
+
+By manually choosing when to commit, you can seperate 
+commits by logical changes where as if they were 
+automatically saved, the changes would not always make
+sense when you look back on them as it could have been
+saved in the middle of implementing a new feature.
+
+Git was created to work with coding projects that more
+than likely would have multiple files, while Google 
+Docs is a platform mostly used to create documents
+which don't really interconnect with other files so
+it wouldn't make sense to have a multi file version
+history.
+
+Git log can be used to list out the entire history of 
+major or logical changes to your project and the git 
+diff command can be used to determine was changed 
+between two given versions of the project.
+
+You would be more confident in making potentially 
+project breaking changes because you can always go back
+to a previous commit where the change wasn't implemented
+and where everything worked.
+
+My ultimate goal is to learn to use git at home and then
+use it for my robotics team at school. I also figure it
+will come in handy for any future coding projects as well
