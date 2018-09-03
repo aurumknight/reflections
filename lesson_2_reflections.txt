@@ -9,3 +9,12 @@ are about the be commited to the repository. The staging
 area gives control over what changes you want to add to
 your repository with any given commit so you can sort
 everything into logical changes.
+
+You can pick and choose what files get added to the staging
+area so you can assure that files that are logically similar
+are grouped together.
+
+Branches would be helpful if you want to experiment with new
+changes but still want to have a working copy to show to the
+world. It can also help organize these big changes by keeping 
+them seperate from the smaller bug fixes in the master file/
