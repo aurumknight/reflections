@@ -22,3 +22,10 @@ them seperate from the smaller bug fixes in the master file.
 The diagrams help me see the branch structure because they
 clearly show from which commit each branch stems from and
 how many commits forward they are.
+
+The result of merging two branches together is a single 
+branch and commit that has the changes and commits from both
+branches in its history and files. It is represented in the 
+diagram as two lines combining into one and it is like this 
+because merging takes two seperate branches and makes them
+one.
