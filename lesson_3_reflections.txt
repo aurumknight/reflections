@@ -9,3 +9,13 @@ your local files. Being able to pull cahnges by manually doing it only
 gives the programmer more control over their files and allows them to know
 exactly what they are working with and only updating it when they feel 
 ready.
+
+A clone is a copy of a repository either of one on your local system or
+on GitHub. A fork is a copy of a repo on GitHub that still gives credit to
+the original creator of the repo while allowing you to expand on it. A 
+branch creates a commit history that seperates from the main history and
+can be reconnected later. git clone would be used to get a repo you created
+onto a new system, a fork on GitHub would used to copy someone else's repo
+onto your GitHub account and from there onto your system and branches are 
+used to experiment with new features or to allow every collaborator on a 
+project have their own workspace.
