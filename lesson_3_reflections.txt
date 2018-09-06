@@ -3,3 +3,9 @@ so you could access them in places other tahn your local machine. The other
 major reason is collaboration with others. Having the files be remote means
 not everyone has to edit the project on one computer and that they could
 access it at their leisure. 
+
+Sometimes there might be a change that you don't want or wouldn't work with
+your local files. Being able to pull cahnges by manually doing it only 
+gives the programmer more control over their files and allows them to know
+exactly what they are working with and only updating it when they feel 
+ready.
