@@ -1,0 +1,5 @@
+A remote repo could be used to backup your local files to protect them and
+so you could access them in places other tahn your local machine. The other
+major reason is collaboration with others. Having the files be remote means
+not everyone has to edit the project on one computer and that they could
+access it at their leisure. 
